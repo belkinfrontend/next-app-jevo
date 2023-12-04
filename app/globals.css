@@ -23,6 +23,11 @@ header {
 header a {
   font-size: 30px;
   padding: 20px;
+  color: #fff;
+}
+
+header a:hover {
+  color: bisque;
 }
 
 footer {
